@@ -1,4 +1,4 @@
 # BasicLogin
 
-- Git init
-- Git add
+- Primeiro Login
+- Primeiro projeto no Github
